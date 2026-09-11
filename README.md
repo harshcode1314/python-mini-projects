@@ -10,7 +10,7 @@ A collection of practical Python scripts focused on algorithmic logic, data stru
 * **`secret_text_converter.py`**
   A custom cryptography engine that translates English text into a personal cipher. Built with dictionary mapping and advanced string manipulation using `.rstrip()` to perfectly handle mid-word punctuation, apostrophes, and trailing symbols.
 
-* **`stickman_rpg_engine.py`** 
+* **`terminal_stickaman_brawler`** 
   A text-based combat logic system handling character stats, damage calculation, and roster management using nested dictionaries and loop-based indexing.
 
 * **`algorithms/`** *(Upcoming)*
