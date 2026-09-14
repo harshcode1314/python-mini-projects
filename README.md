@@ -17,10 +17,9 @@ A collection of practical Python scripts focused on algorithmic logic, data stru
   Optimized Python solutions for standard Leet code data structure challenges (starting with Two Sum), focusing on algorithmic efficiency and memory management.
 
 ## Skills Demonstrated
-* Advanced String Manipulation
+* String Manipulation
 * Dictionary Mapping & Data Structuring
 * Loop Logic & Conditional Processing
-* Algorithmic Problem Solving
 
 ## Environment
 * **Language:** Python 3
